@@ -44,8 +44,6 @@ function Book(props) {
 
         <div>
           <div className='border text-center'>
-            {/* <p className='pt-2'>GET AN ADDITIONAL 10% OFF</p>
-            <p className='py-4'>12 HOURS LEFT</p> */}
             <p className='bg-gray-800 text-gray-200 py-2'>Where are you traveling?</p>
           </div>
           <form className='w-full'>
